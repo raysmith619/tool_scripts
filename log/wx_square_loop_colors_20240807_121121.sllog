@@ -1,0 +1,25 @@
+ 20240807_121122 Trace levels from properties file C:\Users\raysm\vscode\tool_scripts\wx_square_loop_colors.properties
+ 20240807_121122 decpl = False
+ 20240807_121122 stdouthasts = 0
+ 20240807_121122 Creating Log File Name: C:\Users\raysm\vscode\tool_scripts\log\wx_square_loop_colors_20240807_121121.sllog
+ 20240807_121124 
+get_canvas_items
+ 20240807_121124 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240807_121124 TkRemHost __init__()
+ 20240807_121127 
+get_canvas_items
+ 20240807_121127 xmin=0.0, xmax=1.0, ymin=0.0,ymax=1.0, ncols=None,nrows=None
+ 20240807_130142 
+get_canvas_items
+ 20240807_130142 xmin=0.47500000000000003, xmax=0.5750000000000001, ymin=0.52,ymax=0.68, ncols=None,nrows=None
+ 20240807_130143 ix:41 >= 41
+ 20240807_130143 
+get_canvas_items
+ 20240807_130143 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None
+ 20240807_130222 
+get_canvas_items
+ 20240807_130222 xmin=0.5225000000000001, xmax=0.53, ymin=0.5264,ymax=0.5392, ncols=None,nrows=None
+ 20240807_130223 ix:41 >= 41
+ 20240807_130223 
+get_canvas_items
+ 20240807_130223 xmin=None, xmax=None, ymin=None,ymax=None, ncols=None,nrows=None

@@ -1,0 +1,1 @@
+echo "Hi BAT file"
